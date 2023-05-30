@@ -1,0 +1,237 @@
+[
+  {
+    "name":"KFC",
+    "address":"Al Khuwair, Service Road · 24 477777.",
+    "delivery_charge": 5,
+    "image":"https://w7.pngwing.com/pngs/1024/912/png-transparent-colonel-sanders-kfc-fried-chicken-logo-restaurant-fried-chicken-fast-food-restaurant-logo-fictional-character.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday": "10:00 AM - 11:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+       {
+        "name": "Super Meal",
+        "price":5.969,
+        "url": "https://kfcprodnecmsimage.azureedge.net/cmsimages/kfc/omn/desktop/imagestemp/75-Combo.png"
+      },
+      {
+        "name": "Dynamite Burger",
+        "price": 0.977,
+        "url": "https://kfcprodnecmsimage.azureedge.net/cmsimages/kfc/omn/desktop/imagestemp/110058.png"
+      },
+      {
+        "name": "8 Pcs. Lay's Flamin' Hot Half & Half Bucket",
+        "price": 6.650,
+        "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+      },
+      {
+        "name": "Big Filler Twist",
+        "price": 3.381,
+        "url": "https://kfcprodnecmsimage.azureedge.net/cmsimages/kfc/omn/desktop/imagestemp/74-Combo.png"
+      },
+      {
+        "name": "Super Twister Meal",
+        "price": 6.295,
+        "url": "https://kfcprodnecmsimage.azureedge.net/cmsimages/kfc/omn/desktop/imagestemp/76-Combo.png"
+      },
+      {
+        "name": "Super Dinner",
+        "price": 2.985,
+        "url": "https://kfcprodnecmsimage.azureedge.net/cmsimages/kfc/omn/desktop/imagestemp/87-Combo.png"
+      },
+      {
+        "name": "Double Bucket",
+        "price": 14.099,
+        "url": "https://kfcprodnecmsimage.azureedge.net/cmsimages/kfc/omn/desktop/imagestemp/67-Combo.png"
+      },
+      {
+        "name": "Dynamite Burger Box",
+        "price": 2.062,
+        "url": "https://kfcprodnecmsimage.azureedge.net/cmsimages/kfc/omn/desktop/imagestemp/295-Combo.png"
+      },
+      {
+        "name": "Twister Combo ",
+        "price": 1.465,
+        "url": "https://kfcprodnecmsimage.azureedge.net/cmsimages/kfc/omn/desktop/imagestemp/35-Combo.png"
+      },
+      {
+        "name": "Mighty Zinger Combo",
+        "price": 2.713,
+        "url": "https://kfcprodnecmsimage.azureedge.net/cmsimages/kfc/omn/desktop/imagestemp/32-Combo.png"
+      }
+    ]
+  },
+
+    {
+    "name":"Hardee's",
+    "address":"Al Khuwair · 24 477774.",
+    "delivery_charge": 4,
+    "image":"https://www.visitcurrituck.com/wp-content/uploads/2016/01/Hardees_logo1.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Mushroom N Swiss Burger",
+        "price": 1.764,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/4C89271D2871377CF1629625CDB47744?width=172&amp;height=172"
+      },
+      {
+        "name": "Mushroom N Swiss Thickburger Combo - Medium",
+        "price": 3.881,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/B929B57096D463D8A14F24412CB8FFAC?width=172&amp;height=172"
+      },
+      {
+        "name": "Orange Juice",
+        "price": 1.194,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/1B9095A0C14434E3899EAD17761CBB63?width=172&amp;height=172"
+      },
+      {
+        "name": "Gold Rush Burger Combo - Large",
+        "price": 3.562,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/C8DAADE84C184547ED90F439C03F61C6?width=172&amp;height=172"
+      },
+      {
+        "name": "Gold Rush Burger",
+        "price": 2.200,"url": "https://images.deliveryhero.io/image/talabat/Menuitems/49D6C01AC89987BBC575AD12D3D61815?width=172&amp;height=172"
+      },
+      {
+        "name": "Double Wraptor meal - Medium",
+        "price": 2.600,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/AA3FBF6D2C333806BACA8E76CDD75322?width=172&amp;height=172"
+      },
+      {
+        "name": "Churros Brown caramel",
+        "price": 0.990,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/66136DD377E231FD382D5D34568C89CB?width=172&amp;height=172"
+      },
+      {
+        "name": "Blazing Deluxe Burger with Tabasco® Combo - Medium",
+        "price": 2.900,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/28539DACFB885C667C4D1463F9CC9FF4?width=172&amp;height=172"
+      },
+      {
+        "name": "Steak Loader Combo - Medium",
+        "price": 3.311,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/F124A8CD7E4ACD2CA2296542FFE2C584?width=172&amp;height=172"
+      },
+      {
+        "name": "Kids Fun Chicken Star Nuggets Combo",
+        "price": 1.655,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/D1816F2BD6B78FBDDF23A899AEEE28EE?width=172&amp;height=172"
+      },
+      {
+        "name": "Fiery Jalapeño Burger",
+        "price": 1.950,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/AE3EFA1CC6AD8261C0132777368ACB03?width=172&amp;height=172"
+      }
+    ]
+  },
+  {
+    "name":"McDonald's",
+    "address":"Inside the foodcourt at Muscat Grand Mall, Al Ghubra · 22 009459.",
+    "delivery_charge": 5,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmcieoygljjj8gNwW8-D3rLiTl8v0vMK0RA&usqp=CAU",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Medium Fries",
+        "price":  1.197,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/D737A5AA139584E32537B7140B6F749A?width=172&amp;height=172"
+      },
+      {
+        "name": "9 Pieces Nuggets",
+        "price": 2.072,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/309E88C3B5C9D026DD085B97C1EDAD9C?width=172&amp;height=172"
+      },
+      {
+        "name": "Large Route 66 Chicken Mushroom Meal",
+        "price": 4.687,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/FB3AE530BBE0720C1638389C1FC5A370?width=172&amp;height=172"
+      },
+      {
+        "name": "Route 66 Chicken Mushroom",
+        "price": 3.052,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/DB9E8C9C398BD585CEBF262429EBBC51?width=172&amp;height=172"
+      },
+      {
+        "name": "Medium Grand Chicken Peri Peri",
+        "price": 3.803,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/441D64838B1390046B66AA0885D829DB?width=172&amp;height=172"
+      },
+      {
+        "name": "Choco Nut Donut",
+        "price": 0.870,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/85F3527C4387AEBAAFC41C64821F657C?width=172&amp;height=172"
+      }
+    ]
+  },
+  {
+    "name":"Chicking",
+    "address":"Muscat Grand Mall Building 4/5 - Fifth Floor, 133 Al Ghubrah St, Muscat.",
+    "delivery_charge": 6,
+    "image":"https://images.deliveryhero.io/image/talabat/restaurants/Chicking_636001208357965227.jpg?width=300",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "12 Pcs Super Saver",
+        "price": 7.325,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/5379DEBD02B7CA354C1A1E12194A3958?width=172&amp;height=172"
+      },
+      {
+        "name": "Crunchy Box - 2 Pc Chicken Meal",
+        "price":1.602,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/39FA0E65FA33C2D69D3531D905F76322?width=172&amp;height=172"
+      },
+      {
+        "name": "Double Royal Crunchy/Fillet Combo",
+        "price": 2.403,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/10B9707436394237332CEB4C2DD7BE8F?width=172&amp;height=172"
+      },
+      {
+        "name": "Taco Wrap Combo",
+        "price": 1.946,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/7A3D41FDFD22AC1F28C2363FA8B2C1AF?width=172&amp;height=172"
+      },
+      {
+        "name": "Mexi Crunchy Combo ",
+        "price": 2.175,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/91DE54FAAEBF2D2D8DA458DBF6B63640?width=172&amp;height=172"
+      },
+      {
+        "name": "Burritos Combo",
+        "price": 1.946,
+        "url": "https://images.deliveryhero.io/image/talabat/Menuitems/E4E12B48E4D665BAD2541B738FFE0652?width=172&amp;height=172"
+      }
+    ]
+  }
+]
